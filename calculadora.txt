@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://www.vueltagrande.com" href="calculadora.jnlp">
+<information>
+	<title>Demostración de aplicación en Java</title>
+	<vendor>Dias Correia Maximiliano</vendor>
+	<description>Calculadora básica</description>
+</information>
+<resources>
+	<j2se version="5.0+"/>
+	<jar href="calcu.jar"/>
+</resources>
+
+<application-desc main-calss="Calculadora">
+</application-desc>
+
+</jnlp>
+
